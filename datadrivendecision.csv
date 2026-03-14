@@ -1,0 +1,16 @@
+university,country,city,distance_gnv_km,,avg_temp,annual_precipitation,quality_life_index,target_uni,per_sem_costs_chf,avg_livingcosts_chf,,composite_reputation_index
+University of St. Gallen (HSG),Switzerland,St. Gallen,281,,12,1031,210.64,1,1310,1419.9,,86
+Université de Lausanne (HEC Lausanne),Switzerland,Lausanne,51,,14.7,1117,193.46,0,500,1404.2,,70
+Universität Zürich,Switzerland,Zürich,224,,13.9,1140,197.02,0,720,1448.6,,88
+London School of Economics (LSE),United Kingdom,London,747,,13.7,558,168.24,1,15600,1123.2,,100
+University of Edinburgh,United Kingdom,Edinburgh,1262,,11.3,1172,191.77,0,5325,961.4,,72
+University of Amsterdam,Netherlands,Amsterdam,691,,12,1039,202.24,0,1210,1071.1,,80
+Erasmus University Rotterdam,Netherlands,Rotterdam,648,,13.7,1020,207.73,0,1255,964.9,,78
+HEC Paris,France,Paris,410,,15.5,513,140.28,1,11625,972.8,,94
+University of Barcelona,Spain,Barcelona,623,,19.95,429,144.36,0,1395,735.6,,66
+IE University Madrid ,Spain,Madrid,1023,,20.6,508,177.25,1,12590,749,,82
+Bocconi University,Italy,Milan,250,,17.9,1016,123.16,1,8075,922.3,,91
+University of Bologna,Italy,Bologna,448,,18.4,544,141.19,1,950,892.3,,64
+University of Oslo,Norway,Oslo,1554,,9.4,1003,175.25,0,50,1155.7,,55
+University of Warsaw,Poland,Warsaw,1267,,12.3,379,145.74,0,1480,741.4,,58
+Humboldt University of Berlin,Germany,Berlin,876,,13.2,396.3,171.87,0,315,919.5,,74
